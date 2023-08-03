@@ -41,6 +41,10 @@ top 3.
 - If the selected hero's primary attribute is intelligence, the app will get all intelligence
 heroes and sort it by their base_mana (descending) and display the top 3.
 If users tap one of the similar heroes, the app will display the corresponding hero detail.
+here's the preview :
+
+![detail](https://github.com/ignasiusrajagukguk/dota_app_swirf_labs/assets/116331051/5637c089-2a31-494c-ab86-6bc18f1c68fa)
+
 
 i hope this project will prove that i am a good candidate for being mobile flutter developer at Swirf Labs International. Thank You So Much
 
